@@ -2702,6 +2702,7 @@ Contact Area Style
 
 .contact-info-area {
   border-bottom: 1px solid rgb(36, 44, 62);
+      text-align: center;
 }
 
 .single-contact-info {
