@@ -59,7 +59,9 @@ Default CSS
   --paragraphColor: #666;
   --transition: .5s;
 }
-
+.pad {
+      padding-bottom: 20px;
+}
 .logo-container {
     display: flex;
     justify-content: center; /* Center content horizontally */
