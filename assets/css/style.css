@@ -118,7 +118,9 @@ img {
   max-width: 100%;
   height: auto;
 }
-
+.pad-image {
+  PADDING-BOTTOM: 20PX;
+}
 p {
   color: var(--paragraphColor);
   font-size: var(--fontSize);
